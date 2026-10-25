@@ -1,16 +1,16 @@
-LunesLunes
+Lunes
 
-1.º módulo: Programación (2h)
+1.º módulo: Programación 
 
-2.º módulo: Programación (1h)
+2.º módulo: Programación 
 
 3.º módulo: Lenguaje de marcas
 
-4.º módulo: Sistemas informáticos (3h)
+4.º módulo: Sistemas informáticos 
 
-5.º módulo: Sistemas informáticos (2h)
+5.º módulo: Sistemas informáticos 
 
-6.º módulo: Sistemas informáticos (1h)
+6.º módulo: Sistemas informáticos 
 
 
 Martes
@@ -30,11 +30,11 @@ Martes
 
 Miércoles
 
-1.º módulo: Base de datos (3h)
+1.º módulo: Base de datos 
 
-2.º módulo: Base de datos (2h)
+2.º módulo: Base de datos
 
-3.º módulo: Base de datos (1h)
+3.º módulo: Base de datos 
 
 4.º módulo: Itinerario personal para la empleabilidad
 
@@ -47,26 +47,26 @@ Jueves
 
 1.º módulo: Lenguaje de marcas
 
-2.º módulo: Programación (4h)
+2.º módulo: Programación 
 
-3.º módulo: Programación (3h)
+3.º módulo: Programación 
 
-4.º módulo: Programación (2h)
+4.º módulo: Programación 
 
-5.º módulo: Programación (1h)
+5.º módulo: Programación 
 
 6.º módulo: Itinerario personal para la empleabilidad
 
 
 Viernes
 
-1.º módulo: Programación (2h)
+1.º módulo: Programación 
 
-2.º módulo: Programación (1h)
+2.º módulo: Programación 
 
-3.º módulo: Entorno de desarrollo (2h)
+3.º módulo: Entorno de desarrollo 
 
-4.º módulo: Entorno de desarrollo (1h)
+4.º módulo: Entorno de desarrollo 
 
 5.º módulo: Sostenibilidad
 
